@@ -12,6 +12,7 @@
 		EXEC usp_ads_update_agendamento @COD_AGDM = '', @COD_CPF_USER='', @COD_CPF_VOL='', @COD_CEP ='', @DATA_AGDM='20210816 00:00', @TXT_EXT=''
 		 
 
+
 */
 --CRIACAO OU ALTERACAO PROCEDURE
 CREATE OR ALTER PROCEDURE usp_ads_update_agendamento(
